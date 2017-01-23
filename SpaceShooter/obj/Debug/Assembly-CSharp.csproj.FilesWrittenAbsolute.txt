@@ -1,0 +1,14 @@
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/UnityEngine.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/UnityEditor.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/folkeg/MySpaceShooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
